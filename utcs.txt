@@ -1,0 +1,19 @@
+UTCS map for the Quake 3 conversion Tremulous 
+  http://tremulous.net/
+
+Filename : utcs.bsp
+
+Release date : 
+  Would you believe 9 Dec 2008?
+
+Textures:
+  Mostly from Yves "Evil Lair" Allaire's q2 texture pack.
+    textures by Yves Allaire fall under this license:
+    http://creativecommons.org/licenses/by-nd-nc/1.0/
+  Some additional textures lifted from the map Transit by Stannum.
+
+Map design, construction, additional textures and shaders by:
+  Adam "Chompers" Wilkinson (chompers@evilbastard.org)
+
+This map uses the Tremulous media license. 
+  See the file COPYING for more details.
