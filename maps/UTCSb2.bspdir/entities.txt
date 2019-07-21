@@ -1,0 +1,360 @@
+{
+"_mingridlight" "4"
+"_minlight" "3"
+"classname" "worldspawn"
+"message" ":U.T.C.S:"
+"_lightmapscale" "0.25"
+}
+{
+"targetname" "t7"
+"origin" "328 -600 0"
+"classname" "target_position"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "1372 -1432 28"
+}
+{
+"origin" "-752 648 24"
+"classname" "team_human_reactor"
+}
+{
+"origin" "-760 487 64"
+"classname" "team_human_spawn"
+"angle" "30"
+}
+{
+"target" "t5"
+"classname" "trigger_stage"
+"origin" "-160 -864 0"
+"stage" "2"
+"team" "2"
+}
+{
+"target" "t4"
+"team" "1"
+"stage" "1"
+"origin" "-144 -240 0"
+"classname" "trigger_stage"
+}
+{
+"target" "t3"
+"classname" "trigger_stage"
+"origin" "896 -384 0"
+"team" "1"
+"stage" "2"
+}
+{
+"target" "t2"
+"stage" "1"
+"team" "2"
+"origin" "880 -1024 0"
+"classname" "trigger_stage"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "1048 -1964 64"
+}
+{
+"count" "3"
+"message" "Low Loop"
+"origin" "456 -2240 -96"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "248 968 -96"
+"message" "Low Loop"
+"count" "5"
+}
+{
+"count" "5"
+"message" "Low Lookout"
+"origin" "312 1008 40"
+"classname" "target_location"
+}
+{
+"count" "3"
+"message" "Low Lookout"
+"origin" "392 -2288 40"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "504 -640 136"
+"message" "Bridge"
+}
+{
+"classname" "target_location"
+"origin" "-520 -448 160"
+"message" "High Loop"
+"count" "5"
+}
+{
+"count" "5"
+"message" "Default Base"
+"origin" "-600 264 80"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "464 336 -96"
+"message" "Low Loop"
+"count" "5"
+}
+{
+"count" "3"
+"message" "Low Loop"
+"origin" "240 -1632 -96"
+"classname" "target_location"
+}
+{
+"count" "3"
+"message" "High Loop"
+"origin" "1216 -840 160"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "1216 -2112 80"
+"message" "Default Base"
+"count" "3"
+}
+{
+"classname" "target_location"
+"origin" "-504 832 80"
+"message" "Default Base"
+"count" "5"
+}
+{
+"count" "5"
+"message" "Low Loop"
+"origin" "456 872 -96"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "64 104 -96"
+"message" "Low Exit"
+"count" "5"
+}
+{
+"message" "Center"
+"origin" "352 -400 -96"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "-256 -640 -96"
+"message" "Bunker"
+"count" "5"
+}
+{
+"count" "5"
+"message" "High Exit"
+"origin" "-96 -1088 160"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "-904 -1088 160"
+"message" "High Loop"
+"count" "5"
+}
+{
+"count" "5"
+"message" "Lookout"
+"origin" "-72 304 80"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "208 -1112 160"
+"message" "Balcony"
+"count" "5"
+}
+{
+"message" "Bridge"
+"origin" "200 -640 136"
+"classname" "target_location"
+}
+{
+"message" "Roof"
+"origin" "352 -184 448"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "352 -640 448"
+"message" "Roof"
+}
+{
+"message" "Roof"
+"origin" "352 -1152 448"
+"classname" "target_location"
+}
+{
+"count" "3"
+"message" "Balcony"
+"origin" "496 -160 160"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "776 -1584 80"
+"message" "Lookout"
+"count" "3"
+}
+{
+"count" "3"
+"message" "High Loop"
+"origin" "1608 -192 160"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "808 -192 160"
+"message" "High Exit"
+"count" "3"
+}
+{
+"count" "3"
+"message" "Bunker"
+"origin" "960 -640 -96"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "352 -880 -96"
+"message" "Center"
+}
+{
+"count" "3"
+"message" "Low Exit"
+"origin" "640 -1384 -96"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "248 -2152 -96"
+"message" "Low Loop"
+"count" "3"
+}
+{
+"count" "3"
+"message" "Default Base"
+"origin" "1280 -1600 80"
+"classname" "target_location"
+}
+{
+"targetname" "t2"
+"angle" "-1"
+"classname" "func_door"
+"lip" "-8"
+"speed" "30"
+"wait" "999999"
+"model" "*1"
+}
+{
+"targetname" "t3"
+"angle" "-1"
+"speed" "30"
+"lip" "-8"
+"classname" "func_door"
+"wait" "999999"
+"model" "*2"
+}
+{
+"angle" "-1"
+"classname" "func_door"
+"lip" "-8"
+"speed" "30"
+"targetname" "t5"
+"wait" "999999"
+"model" "*3"
+}
+{
+"targetname" "t4"
+"angle" "-1"
+"speed" "30"
+"lip" "-8"
+"classname" "func_door"
+"wait" "999999"
+"model" "*4"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "1464 -1484 28"
+}
+{
+"origin" "1424 -2258 184"
+"classname" "info_alien_intermission"
+"angles" "20 135 0"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "1000 -1750 64"
+}
+{
+"angle" "250"
+"classname" "team_alien_spawn"
+"origin" "1484 -1436 64"
+}
+{
+"angle" "30"
+"origin" "962 -1842 64"
+"classname" "team_alien_spawn"
+}
+{
+"angle" "200"
+"origin" "960 -1924 20"
+"classname" "team_alien_overmind"
+}
+{
+"targetname" "t1"
+"origin" "296 -592 -136"
+"classname" "target_position"
+}
+{
+"classname" "team_human_armoury"
+"origin" "-236 660 64"
+}
+{
+"target" "t1"
+"classname" "info_player_intermission"
+"origin" "752 -1228 336"
+}
+{
+"origin" "-240 496 64"
+"classname" "team_human_spawn"
+"angle" "120"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "-564 728 80"
+"angle" "90"
+}
+{
+"origin" "-456 676 80"
+"classname" "team_human_mgturret"
+"angle" "90"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "-450 476 80"
+"angle" "270"
+}
+{
+"origin" "-564 420 80"
+"classname" "team_human_mgturret"
+"angle" "270"
+}
+{
+"angles" "25 150 0"
+"classname" "info_human_intermission"
+"origin" "-206 142 180"
+}
+{
+"classname" "team_alien_barricade"
+"origin" "1056 -1856 56"
+}
