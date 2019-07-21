@@ -1,0 +1,98 @@
+{
+"_mingridlight" "4"
+"_minlight" "1"
+"classname" "worldspawn"
+"message" "..::nano::.."
+"_lightmapscale" "0.2"
+}
+{
+"targetname" "t1"
+"origin" "296 -592 -136"
+"classname" "target_position"
+}
+{
+"classname" "team_human_spawn"
+"origin" "-704 496 64"
+}
+{
+"classname" "team_human_armoury"
+"origin" "-480 624 64"
+}
+{
+"classname" "team_alien_overmind"
+"origin" "1444 -1868 16"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "1452 -1772 64"
+"angle" "180"
+}
+{
+"target" "t1"
+"classname" "info_player_intermission"
+"origin" "736 -1228 336"
+}
+{
+"origin" "-240 496 64"
+"classname" "team_human_spawn"
+"angle" "180"
+}
+{
+"origin" "-736 640 16"
+"classname" "team_human_reactor"
+}
+{
+"classname" "team_human_medistat"
+"origin" "-480 544 80"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "-608 736 80"
+"angle" "90"
+}
+{
+"origin" "-416 736 80"
+"classname" "team_human_mgturret"
+"angle" "90"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "-416 416 80"
+"angle" "270"
+}
+{
+"origin" "-608 416 80"
+"classname" "team_human_mgturret"
+"angle" "270"
+}
+{
+"origin" "980 -1856 64"
+"classname" "team_alien_spawn"
+"angle" "360"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "1020 -1956 64"
+}
+{
+"origin" "1020 -1756 64"
+"classname" "team_alien_acid_tube"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "1380 -1956 64"
+}
+{
+"angles" "20 250 0"
+"classname" "info_human_intermission"
+"origin" "-396 1012 180"
+}
+{
+"angles" "20 60 0"
+"classname" "info_alien_intermission"
+"origin" "1080 -2288 184"
+}
+{
+"origin" "1380 -1756 64"
+"classname" "team_alien_acid_tube"
+}
