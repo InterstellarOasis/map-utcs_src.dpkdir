@@ -1,13 +1,13 @@
 textures/unban/chompers
 {  
-	qer_editorimage textures/unban/chompers.tga 
+	qer_editorimage textures/unban/chompers 
 	
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
 	polygonoffset
 	{
-		map textures/unban/chompers.tga
+		map textures/unban/chompers
 		blendfunc blend 
 //		alphaGen lightingSpecular
 		rgbGen identity
@@ -18,11 +18,11 @@ textures/unban/chompers
 
 textures/unban/skybox_s
 {
-	qer_editorimage env/parti/space_up.jpg
+	qer_editorimage env/parti/space_up
 	surfaceparm noimpact
 	surfaceparm nolightmap
 	surfaceparm sky
-//	q3map_lightimage textures/atcs/skylight.tga
+//	q3map_lightimage textures/atcs/skylight
 //	q3map_sun 0.95 0.95 1.0 150 120 25	//lilacisles
 //	q3map_sun 1.00 1.00 0.965 75 90 30 	//siege
 //	q3map_sun 1.00 0.90 0.80 110 180 35	//orangecream
