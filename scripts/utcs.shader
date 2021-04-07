@@ -15,20 +15,6 @@ textures/utcs/chrome
 	}
 }
 
-textures/utcs/ladder
-{
-	qer_editorimage textures/utcs/ladder
-	qer_trans .40
-	surfaceparm ladder
-	surfaceparm nodraw
-	surfaceparm nolightmap
-	surfaceparm nonsolid
-	surfaceparm trans
-	surfaceparm nomarks
-	surfaceparm noimpact
-	surfaceparm playerclip
-}
-
 textures/utcs/eq2_floor_05
 {
 	surfaceparm metalsteps
