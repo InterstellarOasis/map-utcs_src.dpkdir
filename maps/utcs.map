@@ -9158,7 +9158,7 @@ unban/chompers
 }
 {
 "classname" "team_alien_acid_tube"
-"origin" "1364 -1432 28"
+"origin" "1364.000000 -1432.000000 24.000000"
 }
 {
 "classname" "team_human_reactor"
@@ -9166,8 +9166,8 @@ unban/chompers
 }
 {
 "classname" "team_human_spawn"
-"origin" "-760 487 64"
-"angle" "30"
+"origin" "-760.000000 487.000000 24.000000"
+"angle" "30.000000"
 }
 {
 "classname" "func_group"
@@ -10126,7 +10126,7 @@ utcs/ecrate_drty-fmtl
 }
 {
 "classname" "team_alien_acid_tube"
-"origin" "1048 -1964 64"
+"origin" "1048.000000 -1964.000000 24.000000"
 }
 {
 "classname" "target_location"
@@ -10385,7 +10385,7 @@ utcs/ecrate_drty-fmtl
 }
 {
 "classname" "team_alien_acid_tube"
-"origin" "1464 -1484 28"
+"origin" "1464.000000 -1484.000000 24.000000"
 }
 {
 "classname" "info_alien_intermission"
@@ -10394,22 +10394,22 @@ utcs/ecrate_drty-fmtl
 }
 {
 "classname" "team_alien_acid_tube"
-"origin" "1000 -1750 64"
+"origin" "1000.000000 -1750.000000 24.000000"
 }
 {
 "classname" "team_alien_spawn"
-"angle" "250"
-"origin" "1484 -1436 64"
+"angle" "-110.000000"
+"origin" "1484.000000 -1436.000000 28.000000"
 }
 {
 "classname" "team_alien_spawn"
-"angle" "30"
-"origin" "962 -1842 64"
+"angle" "30.000000"
+"origin" "962.000000 -1842.000000 24.000000"
 }
 {
 "classname" "team_alien_overmind"
-"angle" "200"
-"origin" "960 -1924 20"
+"angle" "-160.000000"
+"origin" "960.000000 -1924.000000 24.000000"
 }
 {
 "classname" "target_position"
@@ -10418,7 +10418,7 @@ utcs/ecrate_drty-fmtl
 }
 {
 "classname" "team_human_armoury"
-"origin" "-236 660 64"
+"origin" "-236.000000 660.000000 24.000000"
 }
 {
 "classname" "info_player_intermission"
@@ -10427,28 +10427,28 @@ utcs/ecrate_drty-fmtl
 }
 {
 "classname" "team_human_spawn"
-"origin" "-240 496 64"
-"angle" "120"
+"origin" "-240.000000 496.000000 24.000000"
+"angle" "120.000000"
 }
 {
 "classname" "team_human_mgturret"
-"origin" "-564 728 80"
-"angle" "90"
+"origin" "-564.000000 728.000000 24.000000"
+"angle" "90.000000"
 }
 {
 "classname" "team_human_mgturret"
-"origin" "-456 676 80"
-"angle" "90"
+"origin" "-456.000000 676.000000 24.000000"
+"angle" "90.000000"
 }
 {
 "classname" "team_human_mgturret"
-"origin" "-450 476 80"
-"angle" "270"
+"origin" "-450.000000 476.000000 24.000000"
+"angle" "-90.000000"
 }
 {
 "classname" "team_human_mgturret"
-"origin" "-564 420 80"
-"angle" "270"
+"origin" "-564.000000 420.000000 24.000000"
+"angle" "-90.000000"
 }
 {
 "classname" "info_human_intermission"
@@ -10709,7 +10709,7 @@ utcs/ecrate_drty2
 }
 {
 "classname" "team_alien_barricade"
-"origin" "1056 -1856 56"
+"origin" "1056.000000 -1856.000000 24.000000"
 }
 {
 "classname" "func_group"
