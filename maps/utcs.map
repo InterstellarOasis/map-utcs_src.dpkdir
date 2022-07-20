@@ -14612,9 +14612,6 @@ utcs/ecrate_drty-fmtl
 "message" "Top Room"
 }
 {
-"classname" "pos_human_intermission"
-}
-{
 "classname" "func_group"
 "_lightmapscale" "0.3"
 {
